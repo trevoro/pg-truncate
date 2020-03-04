@@ -1,0 +1,19 @@
+{
+  "name": "pg-truncate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "prettier **/*.js --check",
+    "test": "tap"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^6.8.0",
+    "pg": "^7.18.2",
+    "prettier": "^1.19.1",
+    "tap": "^14.10.6"
+  }
+}
